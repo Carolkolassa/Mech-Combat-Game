@@ -1,5 +1,6 @@
 Autores: Caroline e Pedro Agostini
 Versão da engine utilizada: Unreal 4.27.2
+
 ![image](https://user-images.githubusercontent.com/61890562/236649333-f0b626c6-94f4-4ccd-99e5-4e0283ea6de1.png)
 
 Assets utilizados:
@@ -21,3 +22,4 @@ Condição de derrota:
 ![image](https://user-images.githubusercontent.com/61890562/236649585-0aa109c2-1241-433a-a14d-4c70b44f5ecf.png)
 
 Playlist de auxílio: https://www.youtube.com/watch?v=P6n73kxBVV8&list=PLL0cLF8gjBpquEcZTNZnTYckga9xu73Sf
+
